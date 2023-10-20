@@ -9,19 +9,27 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.8.6",
+    "@heroicons/react": "^1.0.6",
+    "@tremor/react": "^3.9.2",
+    "country-state-city": "^3.2.1",
+    "graphql": "^16.8.1",
+    "heroicons": "^2.0.18",
+    "next": "13.5.4",
+    "openai": "^4.12.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "13.5.4"
+    "react-select": "^5.7.7"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.4",
     "postcss": "^8",
     "tailwindcss": "^3",
-    "eslint": "^8",
-    "eslint-config-next": "13.5.4"
+    "typescript": "^5"
   }
 }

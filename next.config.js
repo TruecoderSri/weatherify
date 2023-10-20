@@ -1,4 +1,11 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  images: {
+    domains: ["www.weatherbit.io"],
+  },
+  experimental: {
+    serverComponentsExternalPackages: ["@tremor/react"],
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
