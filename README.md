@@ -1,3 +1,7 @@
+
+
+https://github.com/TruecoderSri/weatherify/assets/100436695/0659faa1-539e-4cd0-bbb9-1fa17f8a9d55
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
