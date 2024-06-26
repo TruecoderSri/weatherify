@@ -1,4 +1,4 @@
-
+## Quick look of the website
 
 https://github.com/TruecoderSri/weatherify/assets/100436695/0659faa1-539e-4cd0-bbb9-1fa17f8a9d55
 
